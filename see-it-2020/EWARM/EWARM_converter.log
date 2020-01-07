@@ -1,0 +1,7 @@
+Project: EWARM
+Converter: IARProjectParser
+Date: 20200107
+
+Project needs GCC compatible startup code and linker script
+see-it-2020: ATTENTION: Failed to determine FPU core for the device: DeviceInfo [vendorName=STMicroelectronics, mcuName=STM32WB55RG], MCU information uncertain.
+see-it-2020: ATTENTION: Failed to determine FPU core for the device: DeviceInfo [vendorName=STMicroelectronics, mcuName=STM32WB55RG], MCU information uncertain.
